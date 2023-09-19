@@ -1,0 +1,41 @@
+.Nav{
+    display:flex;
+    justify-content: space-around;
+   
+    max-width: 600px;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#divAddProduct{
+
+    color: green;
+    border: 1px solid green;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.hover {
+    color: #0000;
+    background: 
+      linear-gradient(90deg, rgb(28, 28, 177) 50%,#000 0) 
+      var(--_p,100%)/200% no-repeat;
+    -webkit-background-clip: text;
+            background-clip: text;
+    transition: .4s;
+}
+
+.hover:hover {
+    --_p: 0%;
+}
+  
+  
+
+
+
+
+
+

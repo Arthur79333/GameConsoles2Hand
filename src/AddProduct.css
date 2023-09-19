@@ -1,0 +1,80 @@
+form
+{
+    background-color:white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: left;
+
+}
+.addProduct h2{
+    margin-top:auto;
+}
+
+
+.addProduct label
+{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+
+.addProduct input
+{
+    margin-bottom:10px;
+    height: 25px;
+    border: inset 1px gainsboro;
+    width: 292px;
+}
+
+.addProduct .wideInput
+{
+    width: 298px;
+}
+
+.addProduct select
+{
+    margin-bottom:10px;
+    height: 29px;
+}
+
+
+.addProduct #divSubmit
+{
+    display: block;
+    text-align: center;
+
+}
+
+.addProduct #submit{
+    margin-top: 10px;
+    margin-bottom: -10px;
+    font-weight: bold;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgb(219, 219, 227);
+}
+
+.addProduct h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.addProduct #prodDescription{
+
+    height: 50px;
+}
+
+
+
+
+
+
+
+

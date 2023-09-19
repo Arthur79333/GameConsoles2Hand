@@ -1,0 +1,67 @@
+.home h1{
+    color: rgb(28, 28, 177);
+}
+
+
+.home .button{
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.home #divLogIN{
+    display:flex;
+    justify-content: space-around;
+   
+    max-width: 650px;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.home #btnLogIn{
+    background-color: rgb(106, 241, 106);
+    font-weight: bold;
+}
+
+
+.home #btnSignUp{
+    margin-left: -5px;
+    background-color: rgb(150, 163, 228);
+    font-weight: bold;
+}
+
+.home input{
+    border-radius: 5px;
+}
+
+.home #divRandomProducts{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home #divRandomProducts label{
+    font-weight: bold;   
+}
+
+.home #divRandomProducts img{
+    width: 150px;
+}
+
+.home #divRandomProducts div{
+    width: 200px;   
+}
+
+.home #divRandomProducts h4{
+    margin-top: -10px;
+}
+
+#divRandomConsolesGallery{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

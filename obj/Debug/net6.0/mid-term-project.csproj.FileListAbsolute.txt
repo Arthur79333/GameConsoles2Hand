@@ -1,0 +1,7 @@
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.csproj.AssemblyReference.cache
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.AssemblyInfoInputs.cache
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.AssemblyInfo.cs
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.csproj.CoreCompileInputs.cache
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tomer\OneDrive\Desktop\קורס FULLSTACK\React\mid term project\mid-term-project\obj\Debug\net6.0\mid-term-project.MvcApplicationPartsAssemblyInfo.cache

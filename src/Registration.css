@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0");
+
+ form
+{
+    background-color:white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    width: 390px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.regForm label
+{
+
+    display: block;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.regForm #email::-webkit-input-placeholder 
+{
+    text-align: right;
+}
+
+.regForm .name
+{
+    width:156px;
+    height: 25px;
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+
+.regForm input 
+{
+    margin-bottom:10px;
+    height: 25px;
+    border: inset 1px gainsboro;
+}
+
+.regForm .wideInput
+{
+    width: 352px;
+}
+
+.regForm select
+{
+    margin-bottom:10px;
+    height: 29px;
+}
+
+.regForm #city
+{
+    width: 358px;
+}
+
+.regForm .myInvalid
+{
+    background-color: red;
+}
+
+.regForm #divSubmit
+{
+    display: block;
+    text-align: center;
+    margin-bottom: -10px;
+
+}
+
+.regForm #submit{
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.regForm #ulPasswordValidation{
+    padding-left: 25px;
+    text-align: left;
+}
+
+.regForm #inCreatePassword{
+    margin-bottom: -15px;
+}
+
+.regForm span{
+
+    visibility: hidden;
+
+    color: green;
+
+}
+
+.regForm .myvisible{
+    visibility: visible;
+}
+
+.regForm #lblErrorConfirmPass{
+    display: none;
+    color: red;
+    margin-top: -5px;
+}
+
+.regForm li{
+    margin-top: -5px;
+}
+
+
